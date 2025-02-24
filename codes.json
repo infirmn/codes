@@ -1,4 +1,5 @@
 {
     "CODE": { "CoinAmount": 50, "Expired": false },
     "NEWYEAR": { "CoinAmount": 100, "Expired": false }
+    "EXPIRED": { "CoinAmount": 100, "Expired": true }
 }
