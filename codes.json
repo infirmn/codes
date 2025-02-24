@@ -1,4 +1,5 @@
 {
     "EXAMPLE": { "CoinAmount": 50, "Expired": false },
+    "EXAMPLE2": { "CoinAmount": 50, "Expired": false },
     "EXPIRED": { "CoinAmount": 50, "Expired": true }
 }
