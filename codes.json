@@ -1,6 +1,4 @@
 {
-    "CODE": { "CoinAmount": 50, "Expired": false },
-    "NEWYEAR": { "CoinAmount": 100, "Expired": false },
-    "EXPIRED": { "CoinAmount": 100, "Expired": true },
-    "NOOB": { "CoinAmount": 100, "Expired": false }
+    "EXAMPLE": { "CoinAmount": 50, "Expired": false },
+    "EXPIRED": { "CoinAmount": 50, "Expired": true }
 }
